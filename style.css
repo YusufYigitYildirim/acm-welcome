@@ -319,8 +319,11 @@ header {
     .navbar-toggle i {
         font-size: 3rem;
     }
+
+    .achievements h1{ font-size: 2rem;}
     .content-achi { display: block;}
 }
+
 
 
 @media (max-width: 600px) {
